@@ -1,1 +1,1 @@
-hello there, this is gonna be my problem solving repog
+Hello there, this is gonna be my problem solving repo .
